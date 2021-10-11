@@ -1,0 +1,58 @@
+C:\Users\Home\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Home\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Home\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Home\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Home\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Home\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Home\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Home\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.inLK.resources
+F:\Для диплома\Диплом\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\Для диплома\Диплом\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\Для диплома\Диплом\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\Для диплома\Диплом\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+F:\Для диплома\Диплом\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.inLK.resources
+F:\Для диплома\Диплом\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.LK.resources
+F:\Для диплома\Диплом\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\Для диплома\Диплом\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+F:\Для диплома\Диплом\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+F:\Для диплома\Диплом\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\Для диплома\Диплом\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+F:\Для диплома\Диплом\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Registration.resources
+F:\Для диплома\Диплом\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Integrity.resources
+F:\Для диплома\Диплом\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Trigger.resources
+F:\Для диплома\Диплом\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ForeignKey.resources
+F:\Для диплома\Диплом\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Optimization.resources
+F:\Практика\Диплом\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\Практика\Диплом\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\Практика\Диплом\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\Практика\Диплом\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+F:\Практика\Диплом\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ForeignKey.resources
+F:\Практика\Диплом\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.inLK.resources
+F:\Практика\Диплом\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Integrity.resources
+F:\Практика\Диплом\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.LK.resources
+F:\Практика\Диплом\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Optimization.resources
+F:\Практика\Диплом\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\Практика\Диплом\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Registration.resources
+F:\Практика\Диплом\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Trigger.resources
+F:\Практика\Диплом\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+F:\Практика\Диплом\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+F:\Практика\Диплом\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\Практика\Диплом\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+F:\Рабочий стол\Женя\Практика\WindowsFormsApplication3\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\Рабочий стол\Женя\Практика\WindowsFormsApplication3\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\Рабочий стол\Женя\Практика\WindowsFormsApplication3\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\Рабочий стол\Женя\Практика\WindowsFormsApplication3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+F:\Рабочий стол\Женя\Практика\WindowsFormsApplication3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ForeignKey.resources
+F:\Рабочий стол\Женя\Практика\WindowsFormsApplication3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.inLK.resources
+F:\Рабочий стол\Женя\Практика\WindowsFormsApplication3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Integrity.resources
+F:\Рабочий стол\Женя\Практика\WindowsFormsApplication3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.LK.resources
+F:\Рабочий стол\Женя\Практика\WindowsFormsApplication3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Optimization.resources
+F:\Рабочий стол\Женя\Практика\WindowsFormsApplication3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\Рабочий стол\Женя\Практика\WindowsFormsApplication3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Registration.resources
+F:\Рабочий стол\Женя\Практика\WindowsFormsApplication3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Trigger.resources
+F:\Рабочий стол\Женя\Практика\WindowsFormsApplication3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+F:\Рабочий стол\Женя\Практика\WindowsFormsApplication3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+F:\Рабочий стол\Женя\Практика\WindowsFormsApplication3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\Рабочий стол\Женя\Практика\WindowsFormsApplication3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
